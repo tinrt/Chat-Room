@@ -51,8 +51,6 @@ Examples:
 # Connect to local server
 ./client 127.0.0.1 1111
 
-# Connect to remote server
-./client csa.ramapo.edu 1111
 ```
 
 ## How to Use
