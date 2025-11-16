@@ -171,7 +171,7 @@ All chat activity is written to:
 ```
 chatlog.txt
 
-
+```
 ---
 
 ## ✔️ Conclusion
@@ -181,5 +181,3 @@ It satisfies all core project requirements and includes multiple optional enhanc
 
 ---
 
-## 📚 Authors
-Your Name(s), Group Number, Course, Semester
