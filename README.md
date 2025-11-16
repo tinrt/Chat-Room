@@ -170,44 +170,7 @@ All chat activity is written to:
 
 ```
 chatlog.txt
-```
 
-Includes timestamps, usernames, join/leave messages, and chat messages.
-
----
-
-## 📌 Requirement Coverage Summary
-
-| Requirement | Status |
-|------------|--------|
-| Multi-threaded server | ✔ |
-| Multiple client support | ✔ |
-| Client program | ✔ |
-| Real-time communication | ✔ |
-| User authentication | ✔ |
-| Unique usernames | ✔ |
-| Logging | ✔ |
-| Basic UI | ✔ |
-| Optional features implemented | ✔✔✔ |
-
----
-
-## 🖼️ Screenshots (optional)
-
-```
-![Server Screenshot](screenshots/server.png)
-![Client Screenshot](screenshots/client.png)
-![Web UI Screenshot](screenshots/webui.png)
-```
-
----
-
-## 🧩 Future Improvements
-
-- Private messaging (`/msg user message`)
-- Kick/Ban admin system
-- Dedicated message queue
-- Persistent online user tracking
 
 ---
 
